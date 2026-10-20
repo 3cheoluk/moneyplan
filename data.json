@@ -10,6 +10,15 @@
    "date": "2026-10-20",
    "memo": "ytu",
    "createdAt": 1792472106301
+  },
+  {
+   "id": "mvg7qnqesoep4",
+   "type": "expense",
+   "amount": 258,
+   "category": "카페·간식",
+   "date": "2026-10-20",
+   "memo": "g",
+   "createdAt": 1792472322470
   }
  ]
 }
