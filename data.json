@@ -1,0 +1,15 @@
+{
+ "app": "gagyebu",
+ "version": 1,
+ "entries": [
+  {
+   "id": "mvg7m0xprotkh",
+   "type": "expense",
+   "amount": 54654645,
+   "category": "기타",
+   "date": "2026-10-20",
+   "memo": "ytu",
+   "createdAt": 1792472106301
+  }
+ ]
+}
